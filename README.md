@@ -1,2 +1,2 @@
 # Shill_Bidding
-Shill bidding prediction
+Shill bidding prediction refers to the forecast of fraudulent bidding activities in which individuals artificially inflate auction prices. By analyzing bidding patterns, user behavior, and historical data, predictive models can identify potential instances of shill bidding, aiding in the detection and prevention of fraudulent practices. This proactive approach helps ensure fair and transparent auctions while safeguarding the interests of genuine participants.
